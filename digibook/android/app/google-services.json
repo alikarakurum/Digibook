@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "228988528192",
+    "project_id": "digibook-28884",
+    "storage_bucket": "digibook-28884.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228988528192:android:1653ffca8004e2b9a5a1a5",
+        "android_client_info": {
+          "package_name": "com.develop.digibook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228988528192-s92ogkcl4d93hcr9acdqf1mnh9ai02ak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.develop.digibook",
+            "certificate_hash": "19c55bc7bc66e6dae76d51cbffb455bcea872180"
+          }
+        },
+        {
+          "client_id": "228988528192-ksmis1k9vfcsd0pn85e5iphova93h9pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf88C_UN3vE3506iyiOkisl6AVxKJMfzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228988528192-ksmis1k9vfcsd0pn85e5iphova93h9pf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
